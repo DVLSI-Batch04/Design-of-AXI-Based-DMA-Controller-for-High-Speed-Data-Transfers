@@ -57,6 +57,6 @@ The design is verified using a lightweight SystemVerilog testbench. Functional s
 DVLSI Batch04
 
 Soumya Karukula- soumyakarukula06@gmail.com
-Shhadaja Chaudhari-shhadaja963@gmail.com
+Shhadaja Chaudhari- shhadaja963@gmail.com
 Thallapalli Nikitha- thallapallinikitha@gmail.com
 Swati Kotrange- swatikatrange07@gmail.com
